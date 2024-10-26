@@ -333,13 +333,14 @@ footer .right .social {
   gap: 0.625rem;
 }
 
-footer .right .social i {
+footer .right .social a i {
+  color: #fff;
   font-size: 1.875rem;
   cursor: pointer;
   transition: color 0.3 ease;
 }
 
-footer .right .social i:hover {
+footer .right .social a i:hover {
   color: #304ffe;
 }
 
