@@ -7,7 +7,8 @@ Este projeto contém NFT Marketplace, Melhores Vendedores, Rodapé, Barra de nav
 # Screenshot
 
 Aqui temos a captura de tela do projeto:
-![screenshot(https://github.com/user-attachments/assets/a4273e58-21b3-4c07-9590-c4f84501526a)
+![Captura de tela_26-10-2024_1491_127 0 0 1](https://github.com/user-attachments/assets/d9fd3140-4dbd-4a22-8578-40349390fc3f)
+
 
 
 
